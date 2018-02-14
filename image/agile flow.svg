@@ -37,34 +37,11 @@
 			c18.232,79.63,77.74,140.955,153.58,163.265l-5.415-5.417C177.74,454.487,172.522,441.905,172.522,428.52z"/>
 	</g>
 </g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
-<g>
-</g>
+    <animateTransform attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="0 120 100"
+            to="360 120 100"
+            dur="5s"
+            repeatCount="indefinite"/>
 </svg>

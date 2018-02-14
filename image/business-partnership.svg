@@ -25,5 +25,12 @@
 	<rect x="20" y="45.586" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -27.0833 28.6152)" width="2" height="2.828"/>
 	<rect x="16.586" y="13" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -4.6274 16.8284)" width="2.828" height="2"/>
 	<rect x="41" y="16.586" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -0.4264 34.9706)" width="2" height="2.828"/>
+    <animateTransform attributeName="transform"
+            attributeType="XML"
+            type="rotate"
+            from="0 120 100"
+            to="360 120 100"
+            dur="5s"
+            repeatCount="indefinite"/>
 </g>
 </svg>
