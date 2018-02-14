@@ -28,9 +28,9 @@
     <animateTransform attributeName="transform"
             attributeType="XML"
             type="rotate"
-            from="0 120 100"
-            to="360 120 100"
-            dur="5s"
+            from="0 30 34"
+            to="360 30 34"
+            dur="25s"
             repeatCount="indefinite"/>
 </g>
 </svg>
